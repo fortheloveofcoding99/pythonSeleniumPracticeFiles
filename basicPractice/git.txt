@@ -1,0 +1,16 @@
+C:\Users\befor\AppData\Local\Android\Sdk
+http://localhost:8080/
+
+password : Jenkins@123
+
+Username : somsarkar9698
+
+Jenkins;
+
+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
+
+Somnathsarkar@123
+
+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
+
+https://github.com/fortheloveofcoding99/basicJava.git
